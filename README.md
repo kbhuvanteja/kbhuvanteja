@@ -5,7 +5,7 @@
 
 
 <!-- **kbhuvanteja/kbhuvanteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<img align="right" src="https://github.com/kbhuvanteja/kbhuvanteja/Keyboard.gif" width="50%"/>
+<img align="right" src="https://github.com/kbhuvanteja/kbhuvanteja/blob/main/Keyboard.gif" width="50%"/>
 
 Here are some ideas to get you started:
 
