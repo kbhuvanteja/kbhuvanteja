@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... **AWS, GCP and any other Cloud Technologies**
 - 📫 How to reach me: **+91 9492676220**
 - 😄 Pronouns: ...
-- My Google Badges : [![GoogleCloud](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/6a48b1a3-75fd-4abe-8741-4f8a862b96e2)
+- My Google Badges : [![GoogleCloud](https://www.cloudskillsboost.google/public_profiles/6a48b1a3-75fd-4abe-8741-4f8a862b96e2)
 
