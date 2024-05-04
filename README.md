@@ -35,11 +35,10 @@ Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuv
 
 ## Technologies
 
-- Linux
+- AWS services (IoT Core, Lambda, DynamoDB, S3, API Gateway, IAM, Amplify etc.)
 - Angular Web Development
-- IIoT
+- IIoT (Industrial Internet of Things)
 - AWS C++ SDK
-- AWS services (IoT Core, Lambda, S3, API Gateway, IAM, DynamoDB etc.)
 - Mosquitto broker, MQTT
 - Docker container
 - Python, C++.
