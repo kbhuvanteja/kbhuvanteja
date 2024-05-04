@@ -18,16 +18,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - My Google Badges : [GoogleCloud](https://www.cloudskillsboost.google/public_profiles/6a48b1a3-75fd-4abe-8741-4f8a862b96e2)
 
-Bhuvan is an associate network & connectivity engineer with around 2 years of
-experience in configuring, developing, testing, and supporting software products across
-diverse industry.
+Meet Bhuvan, a passionate software engineer with almost 2 years of experience in the field. Based in Bangalore, India's very own Silicon Valley, Bhuvan is a student by nature and an Engineer by profession.
 
-He is an Intermediate AWS developer with a proper foundation in cloud technologies &
-concepts, docker, networking, web-technologies, and system configurations. 
+Bhuvan is an associate network & connectivity engineer with around 2 years of experience in configuring, developing, testing, and supporting software products across diverse industry.
 
-These days he is developing and deploying an IoT platform which can be used in different domains.
-Bhuvan is also well-known in different OS platforms like Linux & Windows and database
-management in MySQL. 
+He is an Intermediate AWS developer with a proper foundation in cloud technologies & concepts, docker, networking, web-technologies, and system configurations. 
 
-His proficiency in scripting language like python and front-end
-technologies like HTML, CSS, and JSON makes him a versatile engineer.
+These days he is developing and deploying an IoT platform which can be used in different domains. Bhuvan is also well-known in different OS platforms like Linux & Windows and database management in MySQL.
+
+His proficiency in scripting language like python and front-end technologies like HTML, CSS, and JSON makes him a versatile engineer.
+
+Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuvan_Profile](https://developers.google.com/profile/u/bhuvantejak)
+
+## 🛠 Skills
+
+## Key Competences
+
+## Technologies
+
+## Tools
