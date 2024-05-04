@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **+91 9492676220**
 - 😄 Pronouns: ...
 - My Google Badges : [GoogleCloud](https://www.cloudskillsboost.google/public_profiles/6a48b1a3-75fd-4abe-8741-4f8a862b96e2)
+
+Bhuvan is an associate network & connectivity engineer with around 2 years of
+experience in configuring, developing, testing, and supporting software products across
+diverse industry.
+
+He is an Intermediate AWS developer with a proper foundation in cloud technologies &
+concepts, docker, networking, web-technologies, and system configurations. 
+
+These days he is developing and deploying an IoT platform which can be used in different domains.
+Bhuvan is also well-known in different OS platforms like Linux & Windows and database
+management in MySQL. 
+
+His proficiency in scripting language like python and front-end
+technologies like HTML, CSS, and JSON makes him a versatile engineer.
