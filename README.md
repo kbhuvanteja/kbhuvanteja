@@ -31,8 +31,6 @@ Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuv
 
 # 🛠 Skills
 
-## Key Competences
-
 ## Technologies
 
 - AWS services (IoT Core, Lambda, DynamoDB, S3, API Gateway, IAM, Amplify etc.)
