@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **Kubernetes Configurations**
 - 💬 Ask me about ... **AWS, GCP and any other Cloud Technologies**
 - 📫 How to reach me: **+91 9492676220**
-- 😄 Pronouns: ...
 - My Google Badges : [GoogleCloud](https://www.cloudskillsboost.google/public_profiles/6a48b1a3-75fd-4abe-8741-4f8a862b96e2)
 
 Meet Bhuvan, a passionate software engineer with almost 2 years of experience in the field. Based in Bangalore, India's very own Silicon Valley, Bhuvan is a student by nature and an Engineer by profession.
@@ -36,4 +35,17 @@ Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuv
 
 ## Technologies
 
+- Linux
+- Angular Web Development
+- IIoT
+- AWS C++ SDK
+- AWS services (IoT Core, Lambda, S3, API Gateway, IAM, DynamoDB etc.)
+- Mosquitto broker, MQTT
+- Docker container
+- Python, C++.
+
 ## Tools
+
+- git, svn, Github
+- JSON
+- Windows, Unix/Linux
