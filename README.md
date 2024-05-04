@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **+91 9492676220**
 - 😄 Pronouns: ...
 - My Google Badges : [GoogleCloud](https://www.cloudskillsboost.google/public_profiles/6a48b1a3-75fd-4abe-8741-4f8a862b96e2)
-
