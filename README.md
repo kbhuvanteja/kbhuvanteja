@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I am Bhuvan Teja K.
-#### I am a Software Engineer who loves to explore new technologies and help others in learn and grow.
+### I am a Software Engineer who loves to explore new technologies and help others in learn and grow.
 
 
 <!-- **kbhuvanteja/kbhuvanteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
