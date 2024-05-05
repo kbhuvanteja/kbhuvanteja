@@ -46,3 +46,11 @@ Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuv
 - git, svn, Github
 - JSON
 - Windows, Unix/Linux
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://techmagnets.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-teja)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://google.com/)
