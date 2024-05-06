@@ -46,7 +46,7 @@ Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuv
 
 ## Tools
 
-- git, svn, Github
+- GitLab, Github
 - JSON
 - Windows, Unix/Linux
 
