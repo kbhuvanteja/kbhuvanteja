@@ -6,7 +6,7 @@
 
 <!-- **kbhuvanteja/kbhuvanteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img align="right" src="https://github.com/kbhuvanteja/kbhuvanteja/blob/main/devtype.gif" width="50%"/>
-<img align="right" src="https://github.com/kbhuvanteja/kbhuvanteja/blob/main/developer-recruiters.gif" width="50%"/>
+
 
 Here are some ideas to get you started:
 
@@ -29,6 +29,8 @@ These days he is developing and deploying an IoT platform which can be used in d
 His proficiency in scripting language like python and front-end technologies like HTML, CSS, and JSON makes him a versatile engineer.
 
 Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuvan_Profile](https://developers.google.com/profile/u/bhuvantejak)
+
+<img align="right" src="https://github.com/kbhuvanteja/kbhuvanteja/blob/main/developer-recruiters.gif" width="100%" style="margin-bottom: 50px;">
 
 # 🛠 Skills
 
