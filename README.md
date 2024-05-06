@@ -30,7 +30,7 @@ His proficiency in scripting language like python and front-end technologies lik
 
 Bhuvan is also a member of Google Developer Groups, in GDG Cloud Bangalore [Bhuvan_Profile](https://developers.google.com/profile/u/bhuvantejak)
 
-<img align="center" src="https://github.com/kbhuvanteja/kbhuvanteja/blob/main/developer-recruiters.gif" width="50%" style="margin-bottom: 50px;">
+<img align="center" src="https://github.com/kbhuvanteja/kbhuvanteja/blob/main/developer-recruiters.gif" width="50%">
 
 # 🛠 Skills
 
